@@ -1,0 +1,11 @@
+===== STOCK PORTFOLIO =====
+
+TCS  - Quantity: 50 
+ - Investment: 10000
+UBER  - Quantity: 25 
+ - Investment: 11250
+TESLA  - Quantity: 40 
+ - Investment: 28000
+
+ -----------------------------
+ Total Investment: 49250
